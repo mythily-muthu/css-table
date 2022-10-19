@@ -22,7 +22,7 @@ body {
   display: flex;
   justify-content: space-around;
   gap: 20px;
-  object-fit: none;
+  object-fit: cover;
 }
 .content_container {
   background-color: rgb(214, 150, 184);
